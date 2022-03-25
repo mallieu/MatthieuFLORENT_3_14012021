@@ -1,0 +1,12 @@
+{
+  "name": "p3_florent_matthieu",
+  "version": "1.0.0",
+  "description": "Projet 3 OC",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./sass/main.scss ./sass/main.css -w --style expanded",
+    "prefix": "postcss ./sass/main.css --use autoprefixer -d./sass/prefixed/"
+  },
+  "author": "Matthieu FLORENT",
+  "license": "ISC"
+}
