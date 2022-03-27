@@ -8,6 +8,12 @@
 	}
 }
 
+input[type=text] {
+    background-color: transparent;
+    border: none;
+	width: 70%;
+}
+
 /*Items expliquant le déroulé */
 .brique-fonctionnement {
 	padding: 30px 15px;
